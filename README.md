@@ -1,6 +1,3 @@
-
-
-cat > /home/claude/profile_README_animated.md << 'MDEOF'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Venkata%20Shiva%20Datta%20Botla&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Quant%20Trader%20·%20DeFi%20Researcher%20·%20Systematic%20Strategy%20Builder&descAlignY=58&descSize=18&descColor=8b949e"/>
