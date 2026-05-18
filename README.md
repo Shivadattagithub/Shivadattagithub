@@ -72,21 +72,6 @@ I sit at the intersection of **markets, data, and systematic thinking** — desi
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![Crypto Research Platform](https://github-readme-stats.vercel.app/api/pin/?username=Shivadattagithub&repo=crypto-research-platform&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Shivadattagithub/crypto-research-platform)
-
-[![Funding Rate Monitor](https://github-readme-stats.vercel.app/api/pin/?username=Shivadattagithub&repo=funding-rate-monitor&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Shivadattagithub/funding-rate-monitor)
-
-[![Momentum Backtest](https://github-readme-stats.vercel.app/api/pin/?username=Shivadattagithub&repo=crypto-momentum-backtest&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Shivadattagithub/crypto-momentum-backtest)
-
-[![On-Chain Flow Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Shivadattagithub&repo=onchain-flow-analyzer&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Shivadattagithub/onchain-flow-analyzer)
-
-</div>
-
----
 
 ### 📈 GitHub Stats
 
