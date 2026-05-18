@@ -114,5 +114,3 @@ current_focus = {
 **If you're building something interesting in crypto or quant — let's talk.**
 
 </div>
-MDEOF
-echo "Done"
